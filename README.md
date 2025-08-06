@@ -1,4 +1,5 @@
-# Bdlexicon Lite
+# Bdlexicon
+
 This repository contains the code for fetching sentences for given words. The processed sentence already contains in the `json` format. collected from mongodb corpus using original bdlexicon project.
 
 ## How to use
@@ -22,4 +23,5 @@ python pipeline.py \
     --n_jobs 32 \
     --parallel
 ```
+
 Make sure you pass all of the required arguments.

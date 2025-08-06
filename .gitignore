@@ -1,0 +1,10 @@
+__pycache__
+*.csv
+*.log
+*.tmp
+*.db
+*.sqlite
+*.json
+*.txt
+*.pkl
+*/
